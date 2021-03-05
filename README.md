@@ -1,5 +1,5 @@
 # 마켓컬리 구매후기로 살펴보는 육가공품 제품행태 조사
-![image](https://user-images.githubusercontent.com/71205453/110089117-0f1f0b00-7dd9-11eb-8238-33760918078b.png)
+![image](https://user-images.githubusercontent.com/71205453/110089117-0f1f0b00-7dd9-11eb-8238-33760918078b.png){: width="300" height="200"}
 # 1. 마켓컬리를 데이터 셋으로 선정 이유
 마켓컬리를 볼때마다 늘 느끼는 점은 정말 상품평이 많습니다.   
 컬리는 고객 상품후기를 경영활동 전반에 활용도가 매우 높은곳으로 알려진 기업입니다.   
