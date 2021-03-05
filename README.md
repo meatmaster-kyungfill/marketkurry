@@ -18,6 +18,5 @@ remove_char_counter = Counter({x :remove_char_counter[x] for x in count if x not
 워드 클라우드를 사용할때는 중요한 의미를 지니지 않는 불용어(stopwords)를 데이터 시각화에서 제외해주는 작업을 꼭 거쳐야 합니다.   
 
 ### 3. 결과 및 해석
-<img src="https://user-images.githubusercontent.com/71205453/110096556-5ad5b280-7de1-11eb-885a-6ce67160bbc6.png" width="200" height="400"><img src="https://user-images.githubusercontent.com/71205453/110095946-c408f600-7de0-11eb-9050-53babdc6fe2f.png">
-
-<img src="https://user-images.githubusercontent.com/71205453/110096899-c3249400-7de1-11eb-83d3-4e8fe56fb01f.png" width="200" height="400"><img src="https://user-images.githubusercontent.com/71205453/110096274-164a1700-7de1-11eb-9481-03472b99f4bf.png">
+![image](https://user-images.githubusercontent.com/71205453/110098443-8ce81400-7de3-11eb-8dce-a903050b8748.png)
+![image](https://user-images.githubusercontent.com/71205453/110098561-b0ab5a00-7de3-11eb-82fc-8732ad94368f.png)
